@@ -10,3 +10,5 @@ Crear al menos dos comportamientos abstractos de una nave.
 Crear al menos cuatro tipos de naves diferentes con diferentes comportamiento, si es posible hacer una sobrecarga y una sobreescritura de métodos.
 Crear una clase principal que permita crear las naves de forma tal este bajo una condición booleana o por medio de una regla estipulada dentro de un switch-case o if-else.
 El programa debe tener una ejecución infinita, hasta que el usuario no diga que quiere terminar el programa, este no deberá culminar.
+
+Se hace ampliación de la documentación del código y se suben  archivos que registran los cambios. Solo se modificó la documentación. El código no fue modificado y permanece igual que en la fecha original en que fueron entregados.
